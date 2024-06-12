@@ -1,0 +1,6 @@
+<vnx_cfg>
+<default win="0,0,600,400" ontop="no"/>
+<vm name="ors" win="0,0,600,400" ontop="no"/>
+<vm name="route_sc" win="0,400,600,400"/>
+<vm name="remote_dr" win="1200,0,600,400"/>
+</vnx_cfg>
